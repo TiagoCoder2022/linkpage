@@ -10,7 +10,7 @@
   
 ## 🧾 About
 
-  This project is a link page where I gathered of my personal social media links. The project was droven by Breno Cupertino's FrontEnd Pro immersion classes, but I added some pesonal style in the page like, the toggle switch theme button and the dark/light color theme.
+  This project is a link page where I gathered of my personal social media links. The project was droven by Breno Cupertino's FrontEnd Pro immersion classes, but I added some pesonal style in the page like, the toggle switch theme button and the dark/light theme colors.
   
 ## 🔧 Tools   
   
